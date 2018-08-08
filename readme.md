@@ -2,7 +2,7 @@
 
 # FriendFinder - The Black Panther Edition Node.js, Express & Heroku
 
-Live version: https://stormy-harbor-80202.herokuapp.com/
+Live version: https://hidden-fjord-72547.herokuapp.com/
 
 A web-based application built with Node JS and Express and deployed to Heroku to help users find friends based upon personality traits
 
@@ -48,4 +48,4 @@ https://www.npmjs.com/package/path
 https://www.npmjs.com/package/prompt
 
 
-https://stormy-harbor-80202.herokuapp.com/
+https://hidden-fjord-72547.herokuapp.com/
